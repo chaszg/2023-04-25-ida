@@ -402,6 +402,8 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to software as described below.
+  For this workshop, please make sure to download the
+  <a href = "http://swcarpentry.github.io/python-novice-gapminder/setup.html#getting-the-data>gapminder dataset</a>.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
